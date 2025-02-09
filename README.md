@@ -4,7 +4,7 @@
 
 The code provided to you was generated using [vite](https://vitejs.dev/guide/). Furthermore, [react-bootstrap](https://www.npmjs.com/package/react-bootstrap) has already been installed. 
 
-First you must cd into this place the project is saved and then inside this directory, simply run the following commands
+First you must cd into this place the project is saved and then inside the crncy_group_test directory, simply run the following commands
 
 ```bash
 npm install
